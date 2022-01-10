@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="zagreb"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-04 12:58:51 "/>
+        <attribute name="created" value="emFncmViO0tBTEVCSFZBUjsyMDIyLTAxLTA0OyIxMjo1MjoyNiAiOzI0NzU="/>
+        <attribute name="edited" value="emFncmViO0tBTEVCSFZBUjsyMDIyLTAxLTA0OyIxMjo1ODo1MSAiOzE7MjU4Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="cliente" type="String" array="False" size=""/>
+            <declare name="cartao" type="Boolean" array="False" size=""/>
+            <declare name="numero" type="String" array="False" size=""/>
+            <input variable="cliente"/>
+            <input variable="cartao"/>
+            <if expression="cartao">
+                <then>
+                    <input variable="numero"/>
+                </then>
+                <else>
+                    <output expression="&quot;Infelizmente voc&#234; n&#227;o poder&#225; realizar a compra, a loja s&#243; aceita compra via cart&#227;o&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
