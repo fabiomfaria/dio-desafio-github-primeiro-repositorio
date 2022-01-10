@@ -3,9 +3,12 @@ Repositório de Conteúdos e Dicas do _Boot Camp_ da **Localiza Labs**  _.Net De
 
 :computer_mouse: [BootCamp - LocalizaLabs]([DIO | Codifique o seu futuro global agora](https://web.dio.me/track/localiza-net-developer-2?tab=path))
 
-## Menu Localiza Labs
+------
 
-| :house: [Home](https://github.com/fabiomfaria/dio-desafio-github-primeiro-repositorio) | 
+**Menu Localiza Labs |** :house: [Home](https://github.com/fabiomfaria/dio-desafio-github-primeiro-repositorio)
+
+------
+| :man_scientist: [Pensamento Computacional](https://github.com/fabiomfaria/dio-desafio-github-primeiro-repositorio/tree/main/Bootcamp-LocalizaLabs-dotNet-Developer-2/a-Pensamento-Computacional) | :man_technologist:[Para Começar a Programar](https://github.com/fabiomfaria/dio-desafio-github-primeiro-repositorio/tree/main/Bootcamp-LocalizaLabs-dotNet-Developer-2/b-Primeiros-Passos-Para-Come%C3%A7ar-A-Programar) | :card_index: [Projetos Ageis com Scrum](https://github.com/fabiomfaria/dio-desafio-github-primeiro-repositorio/tree/main/Bootcamp-LocalizaLabs-dotNet-Developer-2/c-Projetos-Ageis-Com-SCRUM) |
 
 
 
@@ -17,3 +20,8 @@ Repositório de Conteúdos e Dicas do _Boot Camp_ da **Localiza Labs**  _.Net De
 
 👨‍💼 [Meu Blog](https://www.tudoexplicado.com/)
 
+:man_office_worker: [Meu Facebook](https://www.facebook.com/tudoexplicadoficial)
+
+
+
+:construction_worker_man: Em construção, ao decorrer do Boot Camp. :factory:

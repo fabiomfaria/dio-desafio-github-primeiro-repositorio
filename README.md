@@ -15,6 +15,8 @@ Repositório de Desafio de Projeto sobre **Git/GitHub** de _Bootcamp_ da **DIO**
 
 👨‍💼 [Meu Blog](https://www.tudoexplicado.com/)
 
+:man_office_worker: [Meu Facebook](https://www.facebook.com/tudoexplicadoficial)
+
 
 
 #### Significado de Boot Camp :medal_military:
