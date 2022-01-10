@@ -1,7 +1,7 @@
-# Desafio de Projeto sobre Git/GitHub de Bootcamp da DIO 💻
-Repositório de Desafio de Projeto sobre **Git/GitHub** de _Bootcamp_ da **DIO**
+# Base Comum Curricular de Bootcamp :bookmark_tabs:
+Repositório de Conteúdos e Dicas da Base Comum Curricular dos Boot Camps que participo na DIO.
 
-## Menu Principal
+## Menu BCCB
 
 
 
@@ -14,4 +14,6 @@ Repositório de Desafio de Projeto sobre **Git/GitHub** de _Bootcamp_ da **DIO**
 👨‍🏫 [Meu Instagram](https://www.instagram.com/tudoexplicado/)
 
 👨‍💼 [Meu Blog](https://www.tudoexplicado.com/)
+
+
 
